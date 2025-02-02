@@ -1,6 +1,7 @@
-# -Blinkit-Sales-Dashboard
+# -📊Blinkit-Sales-Dashboard
 
-## -📝 Project Description- This Power BI dashboard provides insights into the sales, performance, and key metrics of Blinkit, an instant delivery service. The dashboard visualizes sales trends, order volume, revenue breakdown, and customer behavior to help make data-driven decisions.
+## -📝 Project Description-
+This Power BI dashboard provides insights into the sales, performance, and key metrics of Blinkit, an instant delivery service. The dashboard visualizes sales trends, order volume, revenue breakdown, and customer behavior to help make data-driven decisions.
 
 ## -📂 Data Source
 The dataset used in this dashboard comes from [mention source].
@@ -25,3 +26,4 @@ Excel/SQL (if used) – Data preprocessing (mention if applicable).
 DAX – Used for calculated measures and KPIs.
 
 ##-📷 Screenshots
+![Dashboard Preview]()
