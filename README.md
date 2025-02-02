@@ -25,8 +25,5 @@ Power BI – Data visualization & dashboard creation.
 Excel/SQL (if used) – Data preprocessing (mention if applicable).
 DAX – Used for calculated measures and KPIs.
 
-## 📷 Screenshots
-![Dashboard Preview](Screenshot 2025-02-02 151530.png)
-![Dashboard Preview](Screenshot 2025-02-02 151753.png)
-![Dashboard Preview](Screenshot 2025-02-02 151843.png)
+
 
